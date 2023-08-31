@@ -7,7 +7,7 @@ BBS is a digital signature scheme categorized as a form of short group signature
 
 Specifications related to BBS Signature.
 
-- draft-irtf-cfrg-bbs-signatures
+- The BBS Signature Scheme
     - [latest specification](https://identity.foundation/bbs-signature/draft-irtf-cfrg-bbs-signatures.html)
     - [draft-irtf-cfrg-bbs-signatures-03](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/03/)
     - [draft-irtf-cfrg-bbs-signatures-02](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/02/)
