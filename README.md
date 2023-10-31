@@ -9,6 +9,7 @@ Specifications related to BBS Signature.
 
 - The BBS Signature Scheme
     - [latest specification](https://identity.foundation/bbs-signature/draft-irtf-cfrg-bbs-signatures.html)
+    - [draft-irtf-cfrg-bbs-signatures-04](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/04/)
     - [draft-irtf-cfrg-bbs-signatures-03](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/03/)
     - [draft-irtf-cfrg-bbs-signatures-02](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/02/)
     - [draft-irtf-cfrg-bbs-signatures-01](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/01/)
