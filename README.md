@@ -14,6 +14,7 @@ Specifications related to BBS Signature.
     - [draft-irtf-cfrg-bbs-signatures-02](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/02/)
     - [draft-irtf-cfrg-bbs-signatures-01](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/01/)
     - [draft-irtf-cfrg-bbs-signatures-00](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/00/)
+    - [Source for this draft and an issue tracker](https://github.com/decentralized-identity/bbs-signature)
 - W3C BBS Cryptosuite
     - [BBS Cryptosuite v2023 BBS Cryptosuite v2023](https://www.w3.org/TR/vc-di-bbs/)
 
