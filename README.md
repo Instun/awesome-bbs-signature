@@ -20,17 +20,17 @@ Specifications related to BBS Signature.
 
 ## Libraries
 
-Libraries that implement BBS Signature.
+### Libraries that are implemented according to the latest specification
 - [fibjs/fibjs](https://github.com/fibjs/fibjs/tree/dev/fibjs/src/crypto/bbs) - c++ implementation of BBS signature.
 - [microsoft/bbs-node-reference](https://github.com/microsoft/bbs-node-reference) - TypeScript/node reference implementation of BBS signature.
 - [trinsic-id/bbs](https://github.com/trinsic-id/bbs) - Reference implementation of BBS Signatures in Rust.
 
-Libraries implemented according to earlier specifications.
+### Libraries implemented according to earlier specifications
 - [dyne/Zenroom](https://github.com/dyne/Zenroom/blob/3d9c2c31babfdb9e5e8f5171125639f0afa849bd/src/lua/crypto_bbs.lua) - lua reference implementation of BBS signature (draft-irtf-cfrg-bbs-signatures-02).
 - [hyperledger/aries-framework-go](https://github.com/hyperledger/aries-framework-go/tree/main/component/kmscrypto/crypto/primitive/bbs12381g2pub) - Hyperledger Aries Framework Go provides packages (draft-irtf-cfrg-bbs-signatures-00).
 - [hyperledger-archives/ursa](https://github.com/hyperledger-archives/ursa) - Hyperledger Ursa (a shared cryptographic library) has moved to end-of-life status.
 
-Wrapped library.
+### Wrapped library
 - [mattrglobal/bbs-signatures](https://github.com/mattrglobal/bbs-signatures) - An implementation of BBS+ signatures for node and browser environments (based on Hyperledger Ursa project via wasm).
 - [mattrglobal/ffi-bbs-signatures](https://github.com/mattrglobal/ffi-bbs-signatures) - An FFI wrapper around the implementation of BBS+ signatures in Ursa (based on Hyperledger Ursa project).
 - [mattrglobal/node-bbs-signatures](https://github.com/mattrglobal/node-bbs-signatures) - An implementation of BBS+ signatures using rust and typescript for node.js (based on Hyperledger Ursa project).
@@ -38,4 +38,3 @@ Wrapped library.
 ## Resources
 
 Resources related to BBS Signature.
-
