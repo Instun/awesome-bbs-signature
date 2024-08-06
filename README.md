@@ -28,7 +28,6 @@ Specifications related to BBS Signature.
 - java
     - [roblesjoel/P2_BBS_Signature](https://github.com/roblesjoel/P2_BBS_Signature) - P2 project about BBS Signatures in java.
 - JavaScript/TypeScript
-    - [digitalbazaar/bbs-signatures](https://github.com/digitalbazaar/bbs-signatures) - A JavaScript BBS Signatures Implementation.
     - [microsoft/bbs-node-reference](https://github.com/microsoft/bbs-node-reference) - TypeScript/node reference implementation of BBS signature.
 - lua
     - [dyne/Zenroom](https://github.com/dyne/Zenroom/blob/3d9c2c31babfdb9e5e8f5171125639f0afa849bd/src/lua/crypto_bbs.lua) - lua reference implementation of BBS signature.
@@ -36,9 +35,10 @@ Specifications related to BBS Signature.
     - [mattrglobal/pairing_crypto](https://github.com/mattrglobal/pairing_crypto) - A library for pairing based cryptography in Rust.
 
 ### Libraries implemented according to earlier specifications
-- [trinsic-id/bbs](https://github.com/trinsic-id/bbs) - Reference implementation of BBS Signatures in Rust(draft-irtf-cfrg-bbs-signatures-03).
+- [digitalbazaar/bbs-signatures](https://github.com/digitalbazaar/bbs-signatures) - A JavaScript BBS Signatures Implementation(draft-irtf-cfrg-bbs-signatures-05).
 - [hyperledger/aries-framework-go](https://github.com/hyperledger/aries-framework-go/tree/main/component/kmscrypto/crypto/primitive/bbs12381g2pub) - Hyperledger Aries Framework Go provides packages (draft-irtf-cfrg-bbs-signatures-00).
 - [hyperledger-archives/ursa](https://github.com/hyperledger-archives/ursa) - Hyperledger Ursa (a shared cryptographic library) has moved to end-of-life status.
+- [trinsic-id/bbs](https://github.com/trinsic-id/bbs) - Reference implementation of BBS Signatures in Rust(draft-irtf-cfrg-bbs-signatures-03).
 
 ### Wrapped library
 - [mattrglobal/bbs-signatures](https://github.com/mattrglobal/bbs-signatures) - An implementation of BBS+ signatures for node and browser environments (based on Hyperledger Ursa project via wasm).
